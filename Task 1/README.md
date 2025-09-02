@@ -1,5 +1,7 @@
 # Exploratory Data Analysis on Titanic Dataset
 
+https://github.com/user-attachments/assets/0e046fa3-4b52-42bd-9201-8fbde6a753d0
+
 ## 📌 Task Description  
 
 This task involves performing **Exploratory Data Analysis (EDA)** on the classic **Titanic dataset** ([Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)).  
