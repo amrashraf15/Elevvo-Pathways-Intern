@@ -39,3 +39,12 @@ GROUP BY t.Name
 ORDER BY Total_Units_Sold DESC
 LIMIT 10;
 ```
+2. Revenue Per Country
+ ```sql
+SELECT 
+    i.BillingCountry AS Country,
+    SUM(i.Total) AS Total_Revenue
+FROM invoice i
+GROUP BY i.BillingCountry
+ORDER BY Total_Revenue DESC;
+```
