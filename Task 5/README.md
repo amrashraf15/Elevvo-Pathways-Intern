@@ -24,8 +24,8 @@ This project uses the following major technologies:
 - Performing **aggregations** (`SUM`, `COUNT`, `GROUP BY`)  
 - Applying **business logic** to raw sales data  
 - Bonus: Using **Window Functions** (`ROW_NUMBER`, `RANK`)  
-
 ---
+<img width="1045" height="706" alt="Image" src="https://github.com/user-attachments/assets/11ee41e4-2407-449c-800e-c604f9a8e5ff" />
 ## 📝 SQL Queries
 
 ### 1. Top-Selling Products
